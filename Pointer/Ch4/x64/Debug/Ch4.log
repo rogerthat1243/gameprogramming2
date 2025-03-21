@@ -1,0 +1,7 @@
+﻿  Item.c
+  main.c
+  코드를 생성하고 있습니다...
+C:\Users\khm\Documents\GitHub\gameprogramming2\Pointer\Ch4\main.c(116,7): error C2374: 'itemName': 재정의. 여러 번 초기화했습니다.
+      C:\Users\khm\Documents\GitHub\gameprogramming2\Pointer\Ch4\main.c(48,7):
+      'itemName' 선언을 참조하십시오.
+  

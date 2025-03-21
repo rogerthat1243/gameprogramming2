@@ -1,0 +1,5 @@
+﻿  main.c
+  playerInput.c
+C:\Users\khm\Documents\GitHub\gameprogramming2\Pointer\PlayerInput\main.c(16,3): error C2143: 구문 오류: ';'이(가) '}' 앞에 없습니다.
+C:\Users\khm\Documents\GitHub\gameprogramming2\Pointer\PlayerInput\main.c(19,1): error C1004: 예기치 않은 파일의 끝이 나타났습니다.
+  코드를 생성하고 있습니다...
