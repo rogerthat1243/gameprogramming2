@@ -1,0 +1,10 @@
+﻿  main.c
+  MyString.c
+  Player.c
+C:\Users\khm\Documents\GitHub\gameprogramming2\Pointer\Ch8\MyString.c(24,16): warning C4474: 'printf' : 서식 문자열에 전달된 인수가 너무 많습니다.
+      C:\Users\khm\Documents\GitHub\gameprogramming2\Pointer\Ch8\MyString.c(24,16):
+      자리 표시자 및 해당 매개 변수에는 variadic 인수가 0개 필요하지만 1개가 제공되었습니다.
+  
+C:\Users\khm\Documents\GitHub\gameprogramming2\Pointer\Ch8\Player.c(10,26): warning C4028: 정식 매개 변수 1이(가) 선언과 다릅니다.
+  코드를 생성하고 있습니다...
+  Ch8.vcxproj -> C:\Users\khm\Documents\GitHub\gameprogramming2\Pointer\x64\Debug\Ch8.exe

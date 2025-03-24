@@ -3,36 +3,24 @@
   "WorkspaceRootPath": "C:\\Users\\khm\\Documents\\GitHub\\gameprogramming2\\Pointer\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{88A313FC-AE36-4ACA-BCE6-F6C6ABCFED91}|Ch7\\Ch7.vcxproj|C:\\Users\\khm\\Documents\\GitHub\\gameprogramming2\\Pointer\\Ch7\\main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{88A313FC-AE36-4ACA-BCE6-F6C6ABCFED91}|Ch7\\Ch7.vcxproj|solutionrelative:Ch7\\main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{BD3B1244-57B5-4DD0-B8A9-9E26C87964DC}|Ch8\\Ch8.vcxproj|C:\\Users\\khm\\Documents\\GitHub\\gameprogramming2\\Pointer\\Ch8\\main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{BD3B1244-57B5-4DD0-B8A9-9E26C87964DC}|Ch8\\Ch8.vcxproj|solutionrelative:Ch8\\main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{88A313FC-AE36-4ACA-BCE6-F6C6ABCFED91}|Ch7\\Ch7.vcxproj|C:\\Users\\khm\\Documents\\GitHub\\gameprogramming2\\Pointer\\Ch7\\Player.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{88A313FC-AE36-4ACA-BCE6-F6C6ABCFED91}|Ch7\\Ch7.vcxproj|solutionrelative:Ch7\\Player.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{BD3B1244-57B5-4DD0-B8A9-9E26C87964DC}|Ch8\\Ch8.vcxproj|C:\\Users\\khm\\Documents\\GitHub\\gameprogramming2\\Pointer\\Ch8\\Player.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{BD3B1244-57B5-4DD0-B8A9-9E26C87964DC}|Ch8\\Ch8.vcxproj|solutionrelative:Ch8\\Player.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{88A313FC-AE36-4ACA-BCE6-F6C6ABCFED91}|Ch7\\Ch7.vcxproj|C:\\Users\\khm\\Documents\\GitHub\\gameprogramming2\\Pointer\\Ch7\\Player.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{88A313FC-AE36-4ACA-BCE6-F6C6ABCFED91}|Ch7\\Ch7.vcxproj|solutionrelative:Ch7\\Player.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{BD3B1244-57B5-4DD0-B8A9-9E26C87964DC}|Ch8\\Ch8.vcxproj|C:\\Users\\khm\\Documents\\GitHub\\gameprogramming2\\Pointer\\Ch8\\Player.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{BD3B1244-57B5-4DD0-B8A9-9E26C87964DC}|Ch8\\Ch8.vcxproj|solutionrelative:Ch8\\Player.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{10BAD081-8C15-4EAE-A620-ACAC1588C18C}|Ch6\\Ch6.vcxproj|C:\\Users\\khm\\Documents\\GitHub\\gameprogramming2\\Pointer\\Ch6\\GameUI.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{10BAD081-8C15-4EAE-A620-ACAC1588C18C}|Ch6\\Ch6.vcxproj|solutionrelative:Ch6\\GameUI.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{BD3B1244-57B5-4DD0-B8A9-9E26C87964DC}|Ch8\\Ch8.vcxproj|C:\\Users\\khm\\Documents\\GitHub\\gameprogramming2\\Pointer\\Ch8\\MyString.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{BD3B1244-57B5-4DD0-B8A9-9E26C87964DC}|Ch8\\Ch8.vcxproj|solutionrelative:Ch8\\MyString.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{10BAD081-8C15-4EAE-A620-ACAC1588C18C}|Ch6\\Ch6.vcxproj|C:\\Users\\khm\\Documents\\GitHub\\gameprogramming2\\Pointer\\Ch6\\GameUI.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{10BAD081-8C15-4EAE-A620-ACAC1588C18C}|Ch6\\Ch6.vcxproj|solutionrelative:Ch6\\GameUI.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{10BAD081-8C15-4EAE-A620-ACAC1588C18C}|Ch6\\Ch6.vcxproj|C:\\Users\\khm\\Documents\\GitHub\\gameprogramming2\\Pointer\\Ch6\\StructPointer.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{10BAD081-8C15-4EAE-A620-ACAC1588C18C}|Ch6\\Ch6.vcxproj|solutionrelative:Ch6\\StructPointer.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{10BAD081-8C15-4EAE-A620-ACAC1588C18C}|Ch6\\Ch6.vcxproj|C:\\Users\\khm\\Documents\\GitHub\\gameprogramming2\\Pointer\\Ch6\\StructPointer.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{10BAD081-8C15-4EAE-A620-ACAC1588C18C}|Ch6\\Ch6.vcxproj|solutionrelative:Ch6\\StructPointer.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{10BAD081-8C15-4EAE-A620-ACAC1588C18C}|Ch6\\Ch6.vcxproj|C:\\Users\\khm\\Documents\\GitHub\\gameprogramming2\\Pointer\\Ch6\\main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{10BAD081-8C15-4EAE-A620-ACAC1588C18C}|Ch6\\Ch6.vcxproj|solutionrelative:Ch6\\main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{BD3B1244-57B5-4DD0-B8A9-9E26C87964DC}|Ch8\\Ch8.vcxproj|C:\\Users\\khm\\Documents\\GitHub\\gameprogramming2\\Pointer\\Ch8\\MyString.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{BD3B1244-57B5-4DD0-B8A9-9E26C87964DC}|Ch8\\Ch8.vcxproj|solutionrelative:Ch8\\MyString.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -42,108 +30,72 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "Player.h",
-              "DocumentMoniker": "C:\\Users\\khm\\Documents\\GitHub\\gameprogramming2\\Pointer\\Ch7\\Player.h",
-              "RelativeDocumentMoniker": "Ch7\\Player.h",
-              "ToolTip": "C:\\Users\\khm\\Documents\\GitHub\\gameprogramming2\\Pointer\\Ch7\\Player.h",
-              "RelativeToolTip": "Ch7\\Player.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAVAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-03-21T07:16:47.528Z",
+              "Title": "Player.c",
+              "DocumentMoniker": "C:\\Users\\khm\\Documents\\GitHub\\gameprogramming2\\Pointer\\Ch8\\Player.c",
+              "RelativeDocumentMoniker": "Ch8\\Player.c",
+              "ToolTip": "C:\\Users\\khm\\Documents\\GitHub\\gameprogramming2\\Pointer\\Ch8\\Player.c*",
+              "RelativeToolTip": "Ch8\\Player.c*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-03-24T07:38:41.272Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Player.c",
-              "DocumentMoniker": "C:\\Users\\khm\\Documents\\GitHub\\gameprogramming2\\Pointer\\Ch7\\Player.c",
-              "RelativeDocumentMoniker": "Ch7\\Player.c",
-              "ToolTip": "C:\\Users\\khm\\Documents\\GitHub\\gameprogramming2\\Pointer\\Ch7\\Player.c",
-              "RelativeToolTip": "Ch7\\Player.c",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAYAAAAAAAAAA==",
+              "Title": "Player.h",
+              "DocumentMoniker": "C:\\Users\\khm\\Documents\\GitHub\\gameprogramming2\\Pointer\\Ch8\\Player.h",
+              "RelativeDocumentMoniker": "Ch8\\Player.h",
+              "ToolTip": "C:\\Users\\khm\\Documents\\GitHub\\gameprogramming2\\Pointer\\Ch8\\Player.h",
+              "RelativeToolTip": "Ch8\\Player.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-03-24T07:38:33.586Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MyString.c",
+              "DocumentMoniker": "C:\\Users\\khm\\Documents\\GitHub\\gameprogramming2\\Pointer\\Ch8\\MyString.c",
+              "RelativeDocumentMoniker": "Ch8\\MyString.c",
+              "ToolTip": "C:\\Users\\khm\\Documents\\GitHub\\gameprogramming2\\Pointer\\Ch8\\MyString.c",
+              "RelativeToolTip": "Ch8\\MyString.c",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAADIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2025-03-21T07:16:39.865Z",
+              "WhenOpened": "2025-03-24T07:07:38.854Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MyString.h",
+              "DocumentMoniker": "C:\\Users\\khm\\Documents\\GitHub\\gameprogramming2\\Pointer\\Ch8\\MyString.h",
+              "RelativeDocumentMoniker": "Ch8\\MyString.h",
+              "ToolTip": "C:\\Users\\khm\\Documents\\GitHub\\gameprogramming2\\Pointer\\Ch8\\MyString.h",
+              "RelativeToolTip": "Ch8\\MyString.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-03-24T07:07:33.32Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "main.c",
-              "DocumentMoniker": "C:\\Users\\khm\\Documents\\GitHub\\gameprogramming2\\Pointer\\Ch7\\main.c",
-              "RelativeDocumentMoniker": "Ch7\\main.c",
-              "ToolTip": "C:\\Users\\khm\\Documents\\GitHub\\gameprogramming2\\Pointer\\Ch7\\main.c",
-              "RelativeToolTip": "Ch7\\main.c",
-              "ViewState": "AgIAABcAAAAAAAAAAAAuwC4AAAAkAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\khm\\Documents\\GitHub\\gameprogramming2\\Pointer\\Ch8\\main.c",
+              "RelativeDocumentMoniker": "Ch8\\main.c",
+              "ToolTip": "C:\\Users\\khm\\Documents\\GitHub\\gameprogramming2\\Pointer\\Ch8\\main.c",
+              "RelativeToolTip": "Ch8\\main.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2025-03-21T07:10:44.352Z",
+              "WhenOpened": "2025-03-24T07:04:18.951Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "GameUI.c",
-              "DocumentMoniker": "C:\\Users\\khm\\Documents\\GitHub\\gameprogramming2\\Pointer\\Ch6\\GameUI.c",
-              "RelativeDocumentMoniker": "Ch6\\GameUI.c",
-              "ToolTip": "C:\\Users\\khm\\Documents\\GitHub\\gameprogramming2\\Pointer\\Ch6\\GameUI.c",
-              "RelativeToolTip": "Ch6\\GameUI.c",
-              "ViewState": "AgIAACcAAAAAAAAAAAAcwDcAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2025-03-20T07:46:45.444Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "GameUI.h",
-              "DocumentMoniker": "C:\\Users\\khm\\Documents\\GitHub\\gameprogramming2\\Pointer\\Ch6\\GameUI.h",
-              "RelativeDocumentMoniker": "Ch6\\GameUI.h",
-              "ToolTip": "C:\\Users\\khm\\Documents\\GitHub\\gameprogramming2\\Pointer\\Ch6\\GameUI.h",
-              "RelativeToolTip": "Ch6\\GameUI.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-03-20T07:46:37.32Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "main.c",
-              "DocumentMoniker": "C:\\Users\\khm\\Documents\\GitHub\\gameprogramming2\\Pointer\\Ch6\\main.c",
-              "RelativeDocumentMoniker": "Ch6\\main.c",
-              "ToolTip": "C:\\Users\\khm\\Documents\\GitHub\\gameprogramming2\\Pointer\\Ch6\\main.c",
-              "RelativeToolTip": "Ch6\\main.c",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACYAAAANAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2025-03-20T07:04:40.571Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "StructPointer.c",
-              "DocumentMoniker": "C:\\Users\\khm\\Documents\\GitHub\\gameprogramming2\\Pointer\\Ch6\\StructPointer.c",
-              "RelativeDocumentMoniker": "Ch6\\StructPointer.c",
-              "ToolTip": "C:\\Users\\khm\\Documents\\GitHub\\gameprogramming2\\Pointer\\Ch6\\StructPointer.c",
-              "RelativeToolTip": "Ch6\\StructPointer.c",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACsAAAAgAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2025-03-20T07:02:52.556Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "StructPointer.h",
-              "DocumentMoniker": "C:\\Users\\khm\\Documents\\GitHub\\gameprogramming2\\Pointer\\Ch6\\StructPointer.h",
-              "RelativeDocumentMoniker": "Ch6\\StructPointer.h",
-              "ToolTip": "C:\\Users\\khm\\Documents\\GitHub\\gameprogramming2\\Pointer\\Ch6\\StructPointer.h",
-              "RelativeToolTip": "Ch6\\StructPointer.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAuAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-03-20T07:02:46.028Z"
             }
           ]
         }
